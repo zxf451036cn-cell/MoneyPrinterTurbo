@@ -27,3 +27,7 @@ tasks/
 
 # Config with API keys (keep example)
 config.toml
+
+# Allow Streamlit config
+!.streamlit/
+!.streamlit/config.toml
